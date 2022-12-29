@@ -1,10 +1,15 @@
 Hotel booking API using Node.js, Express.js and MongoDB
 
 Functionalities:
+
 •	Fetch available seats
+
 •	Book seat
+
 Note: two users can book seat simultaneously
+
 Working of the application:
+
 1.	Running addData.js to add 500 vacant seats
  ![1](https://user-images.githubusercontent.com/119438857/209950424-bdf9a8ba-891b-4268-b13b-6e052c8e710d.png)
 
