@@ -1,4 +1,4 @@
-Hotel booking API using Node.js, Express.js and MongoDB
+An API to book hotel rooms made using Node.js, Express.js and MongoDB
 
 Functionalities:
 
